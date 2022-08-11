@@ -63,10 +63,10 @@ Set the experimental environment and run the main function directly
 
 ## V. Reference
 
-Mingcong https://github.com/wpddmcmc
+[1] https://github.com/wpddmcmc
 
 ## VI. License
-
+MIT(LICENSE) @ HYM
 
 
 
