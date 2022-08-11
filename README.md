@@ -25,7 +25,7 @@
 
 ### 1. Black line in the undisturbed environment
 
-![class2](https://yiminghku.oss-cn-hangzhou.aliyuncs.com/vertticalVessel.gif)
+![class2](https://github.com/HUANGYming/IdentifyLine/blob/main/actions/Blackline.png)
 
 ### 2. Line on simulated human leg
 
