@@ -25,11 +25,11 @@
 
 ### 1. Black line in the undisturbed environment
 
-![class2](https://github.com/HUANGYming/IdentifyLine/blob/main/actions/Blackline.png)
+![1](https://github.com/HUANGYming/IdentifyLine/blob/main/actions/Blackline.png)
 
 ### 2. Line on simulated human leg
 
-![Class1](https://yiminghku.oss-cn-hangzhou.aliyuncs.com/horizontalVessel.gif)
+![2](https://github.com/HUANGYming/IdentifyLine/blob/main/actions/line.gif)
 
 ## II. Installation
 
