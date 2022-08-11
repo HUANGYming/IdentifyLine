@@ -63,7 +63,7 @@ Set the experimental environment and run the main function directly
 
 ## V. Reference
 
-Mingcong
+Mingcong https://github.com/wpddmcmc
 
 ## VI. License
 
