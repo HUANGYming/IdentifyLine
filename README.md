@@ -66,7 +66,7 @@ Set the experimental environment and run the main function directly
 [1] https://github.com/wpddmcmc
 
 ## VI. License
-MIT(LICENSE) @ HYM
+[MIT](LICENSE) © CAIR_CAS HUANGYiming
 
 
 
